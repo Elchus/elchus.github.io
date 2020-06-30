@@ -12,17 +12,15 @@ Durch eine skurrile Nacht und Nebel-Aktion wird Brian dann plötzlich wider Will
 eine wilde Hatz auf alle Mitglieder der Volksfront. Brian kann nur entkommen, weil er sich an einer Straßenecke als Prediger ausgibt.
 Wie es der Zufall will, scharen sich bald etliche Neugierige um ihn, und ehe er sich versieht, hat er auch schon eine ganze Schar Jünger, die ihn für den wahren Messias halten.
 Damit nehmen das Unheil und das Chaos ihren endgültigen Lauf. Und als Brian, dem die ganze Geschichte einfach nur fürchterlich lästig ist, dann auch noch festgenommen wird,
-scheint sein Schicksal besiegelt. Da er sich gegen die römischen Besatzer engagiert, findet er schließlich in einer Massenkreuzigung sein Ende.
+scheint sein Schicksal besiegelt. Da er sich gegen die römischen Besatzer engagiert hat, findet er schließlich in einer Massenkreuzigung sein Ende.
 
-Schauspieler:
-Brian Cohen, Schwanzus Longus, Weiser aus dem Morgenland 	Graham Chapman	
-Pontius Pilatus, Francis, Ex-Leprakranker, „Rübennase", 
-langweiliger Prophet, Nisus Wettus, Weiser aus dem Morgenland	Michael Palin	
-Reg, Centurio, Hoherpriester, Weiser aus dem Morgenland        	John Cleese	
-Mutter Cohen, Eremit, Simon von Cyrene                                          	Terry Jones	
-Stan (genannt „Loretta"), Mr. Cheeky, Bartverkäufer,
-Gefängniswärter                                                                                    	Eric Idle	
-Blut-und-Donner-Prophet, Gefängniswärter                                        	Terry Gilliam
+**Schauspieler:**
+* Graham Chapman: Brian Cohen, Schwanzus Longus, Weiser aus dem Morgenland
+* Michael Palin: Pontius Pilatus, Francis, Ex-Leprakranker, „Rübennase“, langweiliger Prophet, Nisus Wettus, Weiser aus dem Morgenland u. a.
+* John Cleese: Reg, Centurio, Hohepriester, Weiser aus dem Morgenland u. a.
+* Terry Jones: Mutter Cohen, Eremit, Simon von Cyrene u. a.
+* Eric Idle: Stan (genannt „Loretta“), Mr. Cheeky, Bartverkäufer, Gefängniswärter u. a.
+* Weitere, u.a. Ex-Beatle George Harrison
 
 Obwohl der Vorwurf der Blasphemie von praktisch allen Seiten entkräftet wurde, ist die Satire nach wie vor bei Christen umstritten
 und gilt aufgrund ihrer rezeptionsgeschichtlichen Bedeutung als Paradebeispiel für die Reibungspunkte zwischen künstlerischer Meinungsfreiheit
@@ -35,3 +33,5 @@ Das Abschlusslied Always Look on the Bright Side of Life wurde weit über den Fi
 
 Zitat von Brian im Film:
 > Also gut. Mal abgesehen von der Medizin, den sanitären Einrichtungen, dem Schulwesen, Wein, der öffentlichen Ordnung, der Bewässerung, Straßen, der Wasseraufbereitung und der allgemeinen Krankenkassen, was, frage ich euch, haben die Römer je für uns getan?
+
+<img src="https://bilder4.n-tv.de/img/incoming/origs13429031/6912533361-w1280-h960/imago61587420h.jpg"/>
