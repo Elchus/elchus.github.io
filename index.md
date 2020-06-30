@@ -32,3 +32,6 @@ Filmkritiker und die Pythons selbst bezeichnen Das Leben des Brian aufgrund sein
 reifste Werk der Komikergruppe. Zahlreiche Umfragen bestätigen den anhaltenden Erfolg beim Publikum.
 
 Das Abschlusslied Always Look on the Bright Side of Life wurde weit über den Filmkontext hinaus bekannt.
+
+Zitat von Brian im Film:
+> Also gut. Mal abgesehen von der Medizin, den sanitären Einrichtungen, dem Schulwesen, Wein, der öffentlichen Ordnung, der Bewässerung, Straßen, der Wasseraufbereitung und der allgemeinen Krankenkassen, was, frage ich euch, haben die Römer je für uns getan?
