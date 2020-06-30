@@ -1,4 +1,9 @@
 # Brian Cohen (aus Monty Pythons Live of Brian)
+## Die Satire zielt auf den Dogmatismus religiöser und politischer Gruppen
+
+* Gespielt von Graham Chapman
+* Seine Mutter wurde von Terry Jones dargestellt
+* Das British Film Institute wählte Das Leben des Brian auf Platz 28 der besten britischen Filme aller Zeiten
 
 Aus Wikipedia: Der naive und unauffällige Brian, zur selben Zeit wie Jesus geboren, wird durch Missverständnisse gegen seinen Willen als Messias verehrt.
 Brian, der besagten Jesus Christus immer wieder einmal getroffen hat, ohne ihm größere Aufmerksamkeit zu schenken,
@@ -18,3 +23,12 @@ Mutter Cohen, Eremit, Simon von Cyrene                                          
 Stan (genannt „Loretta"), Mr. Cheeky, Bartverkäufer,
 Gefängniswärter                                                                                    	Eric Idle	
 Blut-und-Donner-Prophet, Gefängniswärter                                        	Terry Gilliam
+
+Obwohl der Vorwurf der Blasphemie von praktisch allen Seiten entkräftet wurde, ist die Satire nach wie vor bei Christen umstritten
+und gilt aufgrund ihrer rezeptionsgeschichtlichen Bedeutung als Paradebeispiel für die Reibungspunkte zwischen künstlerischer Meinungsfreiheit
+und Religionstoleranz.
+
+Filmkritiker und die Pythons selbst bezeichnen Das Leben des Brian aufgrund seiner kohärenten Geschichte und intellektuellen Substanz als das
+reifste Werk der Komikergruppe. Zahlreiche Umfragen bestätigen den anhaltenden Erfolg beim Publikum.
+
+Das Abschlusslied Always Look on the Bright Side of Life wurde weit über den Filmkontext hinaus bekannt.
